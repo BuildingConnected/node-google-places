@@ -1,5 +1,5 @@
 {
-  "name": "google-places",
+  "name": "@buildingconnected/google-places",
   "description": "node.js client for google places API",
   "version": "0.0.3",
   "homepage": "http://github.com/jpowers/node-google-places",
